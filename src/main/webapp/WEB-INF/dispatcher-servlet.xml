@@ -5,5 +5,5 @@
 <bean class="controller.firstController" />
 <bean class="controller.secondController" />
 <bean class="controller.thirdController" />
-
+<bean class="controller.fourthController" />
 </beans>

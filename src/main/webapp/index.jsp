@@ -13,9 +13,9 @@
 	</li>
 	<li><a href="third.action">세번째 요청</a></li>
 	
-	<li><a href="fourth.action">네번째 요청1</a></li>
-	<li><a href="fourth.action">네번째 요청2</a></li>
-	<li><a href="fourth.action">네번째 요청3</a></li>
+	<li><a href="fourth.action?cart=list">네번째 요청1</a></li>
+	<li><a href="fourth.action?cart=update">네번째 요청2</a></li>
+	<li><a href="fourth.action?cart=delete">네번째 요청3</a></li>
 </ul>
 </body>
 </html>
